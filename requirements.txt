@@ -1,1 +1,4 @@
-django==1.10
+django==1.11
+
+
+cambie la version de django, y agregue este texto en la linea 4
