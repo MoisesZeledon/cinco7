@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/pycharm,python,django,jetbrains
 
 ### PyCharm ###
@@ -56,6 +57,8 @@ fabric.properties
 
 
 ### Python ###
+=======
+>>>>>>> 99fe74258e98dffa7e85e7401c67780d931d47c7
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -78,7 +81,6 @@ lib64/
 parts/
 sdist/
 var/
-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
